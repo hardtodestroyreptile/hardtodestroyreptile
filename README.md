@@ -6,7 +6,7 @@
   
 hi, i'm vel ^_^ nice to meet you
 
-[twitter](twitter.com/chunithmyaoi) | [atabook](https://scp682.atabook.org/) | [pronouns](https://pronouns.cc/@scp682)
+[twitter](twitter.com/chunithmyaoi)⠀|⠀[atabook](https://scp682.atabook.org/)⠀|⠀[pronouns](https://pronouns.cc/@scp682)
 
 <hr class="solid">  
 
