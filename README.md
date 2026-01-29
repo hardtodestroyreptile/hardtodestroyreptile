@@ -6,6 +6,8 @@
   
 hi, i'm vel ^_^ nice to meet you
 
+feel free to int and c+h
+
 [twitter](twitter.com/chunithmyaoi)⠀|⠀[atabook](https://scp682.atabook.org/)⠀|⠀[pronouns](https://pronouns.cc/@scp682)
 
 <hr class="solid">  
