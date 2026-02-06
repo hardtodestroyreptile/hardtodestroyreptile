@@ -20,6 +20,7 @@ feel free to int and c+h
 - under 13
 - forsaken supporters
 - ivandrew shippers
+- tcc members (including zero day fans)
 - skin copiers (ask for inspo first)
 
 <hr class="solid">
