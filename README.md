@@ -12,9 +12,12 @@ feel free to int and c+h
 
 <p align="center"><a href="twitter.com/chunithmyaoi">twitter</a>⠀|⠀<a href="https://scp682.atabook.org/">atabook</a>⠀|⠀<a href="discord.com/users/500795284683489290">discord profile</a>⠀|⠀<a href="https://pronouns.cc/@scp682">pronouns</a>
 
-<hr class="solid">  
+<hr class="solid">
 
-![](https://files.catbox.moe/yyv2ex.gif)⠀<ins>dni</ins>
+<details>
+<summary><img src="https://files.catbox.moe/yyv2ex.gif"> <ins>dni</ins></summary>
+<img src="https://files.catbox.moe/oh1it9.png" width="10" height="10">
+  
 - proship/propara
 - proana & any form of anti-recovery
 - under 13
@@ -23,20 +26,28 @@ feel free to int and c+h
 - ivandrew shippers
 - tcc members (including zero day fans)
 - skin copiers (ask for inspo first)
+</details>
 
 <hr class="solid">
 
-![](https://files.catbox.moe/4y1net.gif)⠀<ins>byi</ins>
+<details>
+<summary><img src="https://files.catbox.moe/4y1net.gif">⠀<ins>byi</ins></summary>
+<img src="https://files.catbox.moe/oh1it9.png" width="10" height="10">
+
 - i make suicide/sh jokes
 - i reclaim slurs
 - i do not pick up on social cues often
 - i have a low social battery
 - i keep my inner circle/close friends  16+
 - i make sexual jokes (only with older users)
+</details>
 
 <hr class="solid">
 
-![](https://files.catbox.moe/hcjuou.gif)⠀<ins>abt me</ins>
+<details>
+<summary><img src="https://files.catbox.moe/hcjuou.gif">⠀<ins>abt me</ins></summary>
+<img src="https://files.catbox.moe/oh1it9.png" width="10" height="10">
+
 - i am an atheistic satanist
   - i am not affiliated or pledged to any temple, church, organization, etc.
   - i respect any religious differences as long as it isn't bigotry
@@ -56,3 +67,4 @@ feel free to int and c+h
   - t+pazolite
   - denonbu project
   - and probably more
+</details>
